@@ -1,4 +1,4 @@
-<h1 align="center">Hey! I'm Cyril Malle-Barlow</h1>
+<h1 align="center">Hey! My name is Cyril Malle-Barlow</h1>
 <h3 align="center">Developing software in beautiful Minneapolis</h3>
 
 - I’m currently working on **client project at Prime Digital Academy**
