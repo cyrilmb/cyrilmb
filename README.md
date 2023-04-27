@@ -3,7 +3,7 @@
 
 - I’m currently working on **client project at Prime Digital Academy**
 
-- I’m currently learning **C# / .NET**
+- I’m currently learning **AWS**
 
 - All of my projects are available at [https://github.com/cyrilmb](https://github.com/cyrilmb)
 
