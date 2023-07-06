@@ -3,7 +3,7 @@
 
 - I’m currently working on **a garden management app**
 
-- I’m currently learning **CANVAS**
+- I’m currently learning how to animate with **CANVAS**
 
 - All of my projects are available at [https://github.com/cyrilmb](https://github.com/cyrilmb)
 
